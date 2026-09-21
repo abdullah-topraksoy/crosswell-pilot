@@ -1,0 +1,3 @@
+system_id,provider_scope,access_surface,exact_model_publicly_released,run_structure,notes
+System_A,Different provider from System_B,Consumer chatbot,No,Single exploratory run per scenario,Identity withheld in Pilot v0.1 because the pilot was not designed as a provider leaderboard
+System_B,Different provider from System_A,Consumer chatbot,No,Single exploratory run per scenario,Identity withheld in Pilot v0.1 because the pilot was not designed as a provider leaderboard
