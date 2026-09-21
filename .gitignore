@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+private/
+heldout/
+raw_transcripts/
+full_scenario_bank/
