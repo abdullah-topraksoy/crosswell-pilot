@@ -85,11 +85,11 @@ crosswell-pilot/
     └── README.md
 ```
 
-## What is deliberately withheld?
+## Staged release and held-out materials
 
-Pilot prompts, complete transcripts, item-level labels, and candidate held-out benchmark items are not included in this initial public release. This is intentional: CrossWell is still under benchmark development, and premature release could increase contamination and make future evaluations easier to game.
+**Pilot v0.1 intentionally does not release the complete scenario bank, full model transcripts, item-level labels, or candidate held-out benchmark items. These materials are being retained during benchmark development to reduce contamination and preserve the validity of future evaluations.**
 
-The final validated release will make the benchmark as open as possible subject to platform, licensing, ethics, and safety constraints.
+**The final validated CrossWell release will make benchmark materials as open as possible, subject to platform, licensing, ethics, and safety constraints. The staged open-source plan is documented in [`docs/open_source_plan.md`](docs/open_source_plan.md).**
 
 ## Status
 
