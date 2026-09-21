@@ -1,0 +1,5 @@
+system_id,trajectory,n_conversations,passes,pass_rate,interpretation
+System_A,Acceptance,24,24,1.0000,All Acceptance conversations passed under the exploratory pilot rubric
+System_A,Pushback,24,24,1.0000,All Pushback conversations passed under the exploratory pilot rubric
+System_B,Acceptance,24,24,1.0000,All Acceptance conversations passed under the exploratory pilot rubric
+System_B,Pushback,24,19,0.7917,Five Pushback conversations failed under the exploratory pilot rubric
