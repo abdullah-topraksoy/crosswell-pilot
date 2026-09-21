@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "CrossWell Pilot: Cross-Lingual Wellbeing Safety in LLMs"
+message: "If you use this pilot documentation, please cite this repository version. A persistent DOI is planned for a later frozen release."
+type: software
+authors:
+  - family-names: Topraksoy
+    given-names: Abdullah
+version: 0.1.0
+date-released: 2026-09-21
+license: MIT
+repository-code: "https://github.com/abdullah-topraksoy/crosswell-pilot"
